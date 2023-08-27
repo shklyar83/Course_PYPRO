@@ -1,0 +1,6 @@
+2023-08-13 14:32:21,816 - INFO - [<Supermarket.Products.Product object at 0x000001657722BCD0>, <Supermarket.Products.Product object at 0x000001657720FD10>, <Supermarket.Products.Product object at 0x000001657720FA90>], [2, 40, 3]
+2023-08-17 20:28:20,437 - INFO - [<Supermarket.Products.Product object at 0x00000244A5A58450>, <Supermarket.Products.Product object at 0x00000244A5A4FD10>, <Supermarket.Products.Product object at 0x00000244A5A4FA90>], [2, 40, 3]
+2023-08-17 20:55:58,007 - INFO - [<Supermarket.Products.Product object at 0x00000271944B8450>, <Supermarket.Products.Product object at 0x00000271944AFD10>, <Supermarket.Products.Product object at 0x00000271944AFA90>], [2, 40, 3]
+2023-08-17 20:57:06,940 - INFO - [<Supermarket.Products.Product object at 0x000002136C64FC50>, <Supermarket.Products.Product object at 0x000002136C64FD10>, <Supermarket.Products.Product object at 0x000002136C64FCD0>], [2, 40, 3]
+2023-08-17 20:57:40,379 - INFO - [<Supermarket.Products.Product object at 0x00000207D34FFC50>, <Supermarket.Products.Product object at 0x00000207D34FFCD0>, <Supermarket.Products.Product object at 0x00000207D34FFD10>], [2, 40, 3]
+2023-08-18 10:50:02,841 - INFO - [<Supermarket.Products.Product object at 0x000002A4A46B8450>, <Supermarket.Products.Product object at 0x000002A4A46AFD10>, <Supermarket.Products.Product object at 0x000002A4A46AFA90>], [2, 40, 3]
